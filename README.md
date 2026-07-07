@@ -1,6 +1,6 @@
 # ⚡ EV Charging Performance Analysis
 
-![Dashboard Preview](Looker_Dash.PNG)
+![Dashboard Preview](Looker Dash.PNG)
 
 ## 📌 Project Overview
 
